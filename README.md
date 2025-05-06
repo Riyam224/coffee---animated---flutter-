@@ -1,16 +1,40 @@
 # coffee_animate
 
-A new Flutter project.
+# 🍓 Drink Detail Screen - Flutter UI
 
-## Getting Started
+A minimal and modern drink detail screen built with Flutter. This screen displays product info, image, options for cup size, temperature, and quantity adjustment.
 
-This project is a starting point for a Flutter application.
+![Drink Detail Screenshot](assets/images/drink_detail.png)
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Product name and description
+- Price display in GBP (£)
+- High-quality drink image
+- Cup size selector
+- Temperature toggle (Hot / Iced)
+- Quantity selector
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Screenshot
+
+> Simulator: iPhone 16 – iOS
+
+<img src="assets/images/drink_detail.png" width="300"/>
+
+## 🛠 Technologies
+
+- Flutter
+- Dart
+- Custom UI Design
+- Cupertino & Material Mix
+
+## 📁 How to Use
+
+1. Clone the repository
+2. Add image to `assets/images/drink_detail.png`
+3. Run `flutter pub get`
+4. Launch the app on any device
+
+## 🔖 License
+
+This project is open-source and free to use under the MIT license.
